@@ -4,6 +4,7 @@
 Gery 因为 没写cstring 而CE 3题 导致没进省队
 
 ![](assets/tp.png)
+![](assets/rrtp.jpg)
 
 ----
 
