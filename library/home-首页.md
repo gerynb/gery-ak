@@ -2,6 +2,10 @@
 
 # 九天同悲
 Gery 因为 没写cstring 而CE 3题 导致没进省队
+# 十天同悲
+Gery 粉丝群因政策原因而被迫更名
+# 十一天同悲
+Gery 因为 强行重修数分刷低分数 而GG 导致没有保研
 
 ![](assets/tp.png)
 ![](assets/rrtp.jpg)
